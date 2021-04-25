@@ -28,3 +28,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+
+<p align="center">
+ <img align="center" src=https://github-readme-stats.vercel.app/api?username=arthurpaivat&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars />
+<p/>
