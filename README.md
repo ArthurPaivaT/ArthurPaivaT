@@ -8,7 +8,7 @@
 
 ## Reach Me, I'll be Thankful!
 
-[![Linkedin Badge](https://img.shields.io/badge/-arthurpaivat-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-paiva-982405199/)](https://www.linkedin.com/in/moshfiqrony/)
+[![Linkedin Badge](https://img.shields.io/badge/-arthurpaivat-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-paiva-982405199/)](https://www.linkedin.com/in/arthur-paiva-982405199/)
 [![Gmail Badge](https://img.shields.io/badge/-arthur001123@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:arthur001123@gmail.com)](mailto:arthur001123@gmail.com)
 
 ## 🚀 I use daily:
