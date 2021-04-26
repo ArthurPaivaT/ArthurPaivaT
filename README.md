@@ -15,10 +15,10 @@
 
   ![GoLang](https://img.shields.io/badge/-GoLang-blue?style=flat&logo=go)
   ![Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-black?style=flat&logo=Hyperledger)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+
 
 
 ## 💻 I'm Learning:
