@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-arthurpaivat-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-paiva-982405199/)](https://www.linkedin.com/in/arthur-paiva-982405199/)
 [![Gmail Badge](https://img.shields.io/badge/-arthur001123@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:arthur001123@gmail.com)](mailto:arthur001123@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-arthurtavares-blue?style=plastic&logo=Telegram&logoColor=white&link=htttp://t.me/arthurtavares))](t.me/arthurtavares)
+[![Telegram Badge](https://img.shields.io/badge/-arthurtavares-blue?style=plastic&logo=Telegram&logoColor=white&link=htttp://t.me/arthurtavares)](t.me/arthurtavares)
 
 ## 🚀 I use daily:
 
