@@ -4,7 +4,7 @@
 ### I'm Always Looking for self improvement and new opportunities 
 
 - Software Engineering student at Universidade de Brasília - Brazil
-- Blockchain/Backend developer and intern at [GoLedger](https://goledger.com.br/). 
+- Blockchain/Backend developer at [Foton Tech](https://fotontech.io/). 
 
 ## Reach Me, I'll be Thankful!
 
