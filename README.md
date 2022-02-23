@@ -4,7 +4,7 @@
 ### I'm Always Looking for self improvement and new opportunities 
 
 - Software Engineering student at Universidade de Brasília - Brazil
-- Blockchain/Backend developer at [Foton Tech](https://fotontech.io/). 
+- CTO/Blockchain developer at [Solaland](https://www.solalandhq.com//). 
 
 ## Reach Me, I'll be Thankful!
 
