@@ -3,8 +3,9 @@
 
 ### I'm Always Looking for self improvement and new opportunities 
 
-- Software Engineering student at Universidade de Brasília - Brazil
-- CTO/Blockchain developer at [Solaland](https://www.solalandhq.com//). 
+- Software Engineer graduated at Universidade de Brasília - Brazil
+- Blockchain developer. 
+- Solana, Ethereum and Hyperledger Fabric.
 
 ## Reach Me, I'll be Thankful!
 
@@ -18,6 +19,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## ⌛ I have used before:
 
