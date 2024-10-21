@@ -9,7 +9,7 @@
 
 ## Reach Me, I'll be Thankful!
 
-[![Linkedin Badge](https://img.shields.io/badge/-arthurpaivat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-paiva-982405199/)](https://www.linkedin.com/in/arthur-paiva-982405199/)
+[![Linkedin Badge](https://img.shields.io/badge/-arthurpaivat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/arthur-paiva-982405199/](https://www.linkedin.com/in/arthurpaivat/))](https://www.linkedin.com/in/arthurpaivat/)
 [![Gmail Badge](https://img.shields.io/badge/-arthur001123@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arthur001123@gmail.com)](mailto:arthur001123@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-arthurtavares-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=htttp://t.me/arthurtavares)](https://t.me/arthurtavares)
 
